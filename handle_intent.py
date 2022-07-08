@@ -20,7 +20,6 @@ import capture_voice
 
 # Constants
 OPEN_WEATHER_KEY = os.getenv('OPEN_WEATHER_KEY')
-OPEN_WEATHER_KEY = '54263f49323163b8be8c1084109d69cc'
 
 YOUTUBE_SEARCH_URL = 'https://www.youtube.com/results?search_query='
 
